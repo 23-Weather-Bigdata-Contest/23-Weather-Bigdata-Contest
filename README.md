@@ -36,4 +36,5 @@ Léo Grinsztajn, Edouard Oyallon, Gaël Varoquaux , Why do tree-based models sti
 
 ## 활용방안
 <img width="775" alt="7  활용방안" src="https://github.com/eon00/23-Weather-Bigdata-Contest/assets/128279811/7f91751f-127b-4a8f-a3aa-90d247f6fa21">
+분자료를 확인해주세요
 
